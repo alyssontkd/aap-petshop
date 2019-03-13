@@ -1,0 +1,13 @@
+#upload_frame {
+    display:none;
+    height:0;
+    width:0;
+}
+#msg {
+    background-color:#FFE07E;
+    border-radius:5px;
+    padding:5px;
+    display:none;
+    width:200px;
+    font:italic 13px/18px arial,sans-serif;
+}
